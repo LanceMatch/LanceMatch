@@ -29,14 +29,17 @@
 	line-height: 1.7;
 }
 
+.uppercase {
+	text-transform: uppercase;
+}
 
 footer.bg-primary {
 	background-color: #333 !important;
 }
 
 @media screen and (max-width: 767px) {
-.blog-sidebar {
-  display: block !important;
-  text-align: center;
-}
+	.blog-sidebar {
+	  display: block !important;
+	  text-align: center;
+	}
 }
