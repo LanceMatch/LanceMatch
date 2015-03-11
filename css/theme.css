@@ -1305,8 +1305,6 @@ img.phone-portrait {
   padding-bottom: 16px;
 }
 .client-row img {
-  max-height: 60px;
-  max-width: 140px;
   opacity: 0.3;
   -webkit-transition: all .3s ease;
   -moz-transition: all .3s ease;
