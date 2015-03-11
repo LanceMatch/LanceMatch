@@ -1311,6 +1311,11 @@ img.phone-portrait {
   transition: all .3s ease;
   -webkit-backface-visibility: none;
 }
+
+@media (min-width: 659px) and (max-width: 768px) {
+.client-row img {max-width:98px;}
+  }
+
 .client-row img:hover {
   opacity: 1;
 }
