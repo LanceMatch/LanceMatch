@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> 
+<html class="no-js"> <!--<![endif]-->
+{% include head.html %}
+<body>
+<div class="loader">
+  <div class="spinner">
+    <div class="double-bounce1"></div>
+    <div class="double-bounce2"></div>
+  </div>
+</div>
+<div class="nav-container">
+  <nav class="top-bar overlay-bar">
+    <div class="container">
+      <div class="row nav-menu">
+        <div class="col-sm-3 col-md-2 columns">
+          <a href="index.html">
+            <img class="logo logo-light" alt="Logo" src="img/branding/logo-light.png">
+            <img class="logo logo-dark" alt="Logo" src="img/branding/logo-dark.png">
+          </a>
+        </div>
+        <div class="col-sm-9 col-md-10 columns">
+          <ul class="menu">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="overview.html">How It Works</a></li>
+            <li><a href="referrals.html">Referrals</a></li>
+          </ul>
+          <ul class="social-icons text-right">
+            <li>
+            <a href="#">
+              <i class="icon fa fa-twitter"></i>
+            </a>
+            </li>
+
+            <li>
+            <a href="#">
+              <i class="icon fa fa-facebook"></i>
+            </a>
+            </li>
+          </ul>
+        </div>
+      </div><!--end of row-->
+      <div class="mobile-toggle">
+        <i class="icon fa fa-bars"></i>
+      </div>
+    </div><!--end of container-->
+  </nav>
+</div>
+<div class="main-container">
+  <header class="page-header">
+    <div class="background-image-holder parallax-background">
+      <img class="background-image" alt="Background Image" src="img/hero/how-it-works.jpg">
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 text-center">
+          <h1 class="text-white">How It Works</h1>
+          <p class="lead text-white">We work side-by-side with you to ensure that your next project is done right by world class designers and engineers.</p>
+        </div>
+      </div>
+    </div>
+  </header>
+  <section class="article-single">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3 col-md-offset-1">
+          <div class="blog-sidebar">
+            <div class="sidebar-widget">
+              <h5>How It Works</h5>
+              <ul class="process">
+                <a href="overview.html" class="active"><li>Overview</li></a>
+                <a href="submission.html"><li>Submission</li></a>
+                <a href="selection.html"><li>Selection</li></a>
+                <a href="payment-security.html"><li>Payments &amp; Security</li></a>
+              </ul>
+            </div>
+
+            <div class="sidebar-widget">
+              <div id="tweets" data-widget-id="492085717044981760">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-8 col-sm-9">
+          <div class="article-body">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+{% include footer.html %}
+</body>
+</html>
+
+{% include footer.html %}
+</body>
+</html>
