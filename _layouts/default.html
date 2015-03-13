@@ -6,7 +6,9 @@
 <html class="no-js"> <!--<![endif]-->
   {% include head.html %}
   <body>
-        {{ content }}
-        {% include footer.html %}
+    {% include loader.html %}
+    {% include navbar.html %}
+    {{ content }}
+    {% include footer.html %}
   </body>
 </html>

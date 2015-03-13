@@ -1,0 +1,61 @@
+---
+layout: default
+---
+{% assign author = site.data.authors[page.author] %}
+<div class="main-container">
+  <header class="page-header">
+    <div class="background-image-holder parallax-background">
+      <img class="background-image" alt="Background Image" src="/img/hero/how-it-works.jpg">
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 text-center">
+          <h1 class="text-white">{{page.title}}</h1>
+          <p class="lead text-white">{{page.lead}}</p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="article-single">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+          <div class="article-body">
+            {{ content }}
+          </div><!--end of article body-->
+        </div>
+      </div><!--end of row-->
+
+      <div class="row">
+        <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+          <div class="author-details">
+            <img class="img-circle" alt="Author" src="{{ author.image }}" width="200">
+            <h5>{{ author.name }}</h5>
+            <p> {{ author.bio }} </p>
+            <ul class="social-icons">
+              <li>
+              <a href="#">
+                <i class="icon social_twitter"></i>
+              </a>
+              </li>
+
+              <li>
+              <a href="#">
+                <i class="icon social_facebook"></i>
+              </a>
+              </li>
+
+              <li>
+              <a href="#">
+                <i class="icon social_tumblr"></i>
+              </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div><!--end of row-->
+    </div><!--end of container-->	
+  </section>
+</div>
