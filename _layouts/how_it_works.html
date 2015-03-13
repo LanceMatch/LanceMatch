@@ -24,10 +24,10 @@ layout: default
             <div class="sidebar-widget">
               <h5>How It Works</h5>
               <ul class="process">
-                <a href="overview.html" class="active"><li>Overview</li></a>
-                <a href="submission.html"><li>Submission</li></a>
-                <a href="selection.html"><li>Selection</li></a>
-                <a href="payment-security.html"><li>Payments &amp; Security</li></a>
+                <a href="/how-it-works/overview"   {% if page.url == "/how-it-works/overview/index.html" %}class="active"{% endif %}><li>Overview</li></a>
+                <a href="/how-it-works/submission" {% if page.url == "/how-it-works/submission/index.html" %}class="active"{% endif %}><li>Submission</li></a>
+                <a href="/how-it-works/selection"  {% if page.url == "/how-it-works/selection/index.html" %}class="active"{% endif %}><li>Selection</li></a>
+                <a href="/how-it-works/payment-security" {% if page.url == "/how-it-works/payment-security/index.html" %}class="active"{% endif %}><li>Payments &amp; Security</li></a>
               </ul>
             </div>
 
