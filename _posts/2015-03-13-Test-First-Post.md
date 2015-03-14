@@ -3,7 +3,6 @@ layout: blog_single
 lead: A little Lorem. A little Ipsum.
 author: justin_krup
 title: An <em>optional</em> different title
-minutes: 3
 ---
 <p class="lead">
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
