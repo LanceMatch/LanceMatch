@@ -3,18 +3,19 @@ layout: how_it_works
 section: How It Works
 title: Overview
 ---
-## Not sure where to go to get your idea developed?
+## Overview
 
-<p class="lead"> Good news! We have a network of handpicked, vetted professionals who are ready to get going working with you. We find the perfect individual for your project - then take an active role to make sure the process goes smoothly on both ends.  </p>
+You have a project that needs a high-quality creative work. We have a network of handpicked, vetted professionals who are ready to get dirty. We match you up and then we make sure the process goes smoothly on both ends.
 
-## Why should I submit my project on Crew?
+The best applicants. No recruiters. No worries.
 
-Crew professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top-notch products that launch on time and on budget.
+## Why should I submit my project on LanceMatch?
 
-## Why should I submit my project on Crew?
+Our professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top products that launch on time and on budget.
 
-Crew professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top products that launch on time and on budget.
+ * Save time and money by connecting with an experienced professional, ready to work on your project, in under 48 hours.
+ * Get help along the way from our team. We're here to help you choose the right budget, set the right scope, and answer any questions you might have.
 
-## Why should I submit my project on Crew?
+## How do I connect with my professional?
 
-Crew professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top products that launch on time and on budget.
+After vetting, we introduce you to the 3 perfect candidates for your job. From there, it's all up to you. We suggest regular communication with your freelancer via email for 1:1 communication, <a href="https://slack.com">Slack</a> for teams, or even <a href="http://en.wikipedia.org/wiki/Internet_Relay_Chat">IRC</a> for development teams.

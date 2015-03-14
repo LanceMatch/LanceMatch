@@ -3,18 +3,11 @@ layout: how_it_works
 title: Payments & Security
 section: How It Works
 ---
-<p class="lead">
-You have a project that needs a high-quality creative work. We have a network of handpicked, vetted professionals who are ready to get dirty. We match you up and then we make sure the process goes smoothly on both ends.
-</p>
+## How does payment work?
 
-## Why should I submit my project on Crew?
+After our search for amazing talent is complete, we collect 10% of the project budget. Future payments are not made through us, but with your chosen developer directly.
 
-Crew professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top products that launch on time and on budget.
+## What happens if I don't like the the freelancers you guys have picked out?
 
-## Why should I submit my project on Crew?
+We offer a money back guarantee for the first 7 days after your deposit is made. If you aren't happy with the freelancers we have picked for you, or you start working with a freelancer and don't like the work he's submitting, we'll refund you 100% of your initial deposit.</p> 
 
-Crew professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top products that launch on time and on budget.
-
-## Why should I submit my project on Crew?
-
-Crew professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top products that launch on time and on budget.

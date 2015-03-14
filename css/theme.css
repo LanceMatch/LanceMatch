@@ -108,10 +108,6 @@ h6 {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
-ul {
-  list-style: none;
-  padding: 0px;
-}
 a:hover {
   text-decoration: none;
 }
@@ -212,6 +208,10 @@ span.text-white a {
   -moz-transition: all .5s ease;
   transition: all .5s ease;
   opacity: 1;
+}
+.process {
+  list-style: none;
+  padding: 0px;
 }
 .spinner {
   width: 40px;
@@ -485,7 +485,8 @@ nav hr {
   color: #fff;
 }
 .menu {
-  padding: 0;
+  list-style: none;
+  padding: 0px;
   margin: 0;
   display: inline-block;
   position: relative;
@@ -1591,6 +1592,7 @@ img.phone-portrait {
 }
 .social-icons {
   list-style: none;
+  padding: 0px;
   overflow: hidden;
   display: inline-block;
 }

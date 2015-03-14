@@ -3,18 +3,15 @@ layout: how_it_works
 section: How It Works
 title: Submission
 ---
-<p class="lead">
-You have a project that needs a high-quality creative work. We have a network of handpicked, vetted professionals who are ready to get dirty. We match you up and then we make sure the process goes smoothly on both ends.
-</p>
-## Why should I submit my project on Crew?
+## How do I submit a project?
 
-Crew professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top products that launch on time and on budget.
+Follow this form <a href="#">here</a>. You'll be asked some questions about your project and we'll take care of everything else :). 
 
-## Why should I submit my project on Crew?
+## How does the submission process work?
 
-Crew professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top products that launch on time and on budget.
+We carefully read through your requirements and reach out to potential candidates accordingly. Since we know all our developers really well, we know right away who would be a perfect fit. 
 
-## Why should I submit my project on Crew?
+## I have another question. How can I get in Touch?
 
-Crew professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top products that launch on time and on budget.
+For sure. Contact us <a href="#">here.</a>
 

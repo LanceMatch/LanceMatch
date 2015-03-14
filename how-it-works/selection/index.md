@@ -3,18 +3,12 @@ layout: how_it_works
 section: How It Works
 title: Selection
 ---
-<p class="lead">
-You have a project that needs a high-quality creative work. We have a network of handpicked, vetted professionals who are ready to get dirty. We match you up and then we make sure the process goes smoothly on both ends.
-</p>
-## Why should I submit my project on Crew?
 
-Crew professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top products that launch on time and on budget.
+## Once I submit a project, how long does the selection process take?
 
-## Why should I submit my project on Crew?
+We'll get started right away looking for relevant freelancers. Usually, we're pretty good at getting back to you with potential candidates within the first 48 hours. However, it could take us a little longer depending on the specific requirements of your project.
 
-Crew professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top products that launch on time and on budget.
+## What if I do not like the candidates you find?
 
-## Why should I submit my project on Crew?
-
-Crew professionals bring a wealth of experience and skill to help your project standout, increase conversions, and ultimately be successful. Every professional has a proven track-record of building top products that launch on time and on budget.
+See [here](/how-it-works/payment-security/).
 
