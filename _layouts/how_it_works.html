@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div class="main-container">
+  <header class="page-header">
+    <div class="background-image-holder parallax-background">
+      <img class="background-image" alt="Background Image" src="/img/hero/how-it-works.jpg">
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 text-center">
+          <h1 class="text-white">How It Works</h1>
+          <p class="lead text-white">We work side-by-side with you to ensure that your next project is done right by world class designers and engineers.</p>
+        </div>
+      </div>
+    </div>
+  </header>
+  <section class="article-single">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3 col-md-offset-1">
+          <div class="blog-sidebar">
+            <div class="sidebar-widget">
+              <h5>How It Works</h5>
+              <ul class="process">
+                <a href="/how-it-works/overview"   {% if page.url == "/how-it-works/overview/index.html" %}class="active"{% endif %}><li>Overview</li></a>
+                <a href="/how-it-works/submission" {% if page.url == "/how-it-works/submission/index.html" %}class="active"{% endif %}><li>Submission</li></a>
+                <a href="/how-it-works/selection"  {% if page.url == "/how-it-works/selection/index.html" %}class="active"{% endif %}><li>Selection</li></a>
+                <a href="/how-it-works/payment-security" {% if page.url == "/how-it-works/payment-security/index.html" %}class="active"{% endif %}><li>Payments &amp; Security</li></a>
+              </ul>
+            </div>
+
+            <div class="sidebar-widget">
+              <div id="tweets" data-widget-id="492085717044981760">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-8 col-sm-9">
+          <div class="article-body">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
