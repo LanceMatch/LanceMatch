@@ -8,7 +8,7 @@ url: "http://lancematch.com" # the base hostname & protocol for your site
 #url: "http://localhost:4000m" # the base hostname & protocol for your site
 
 twitter_username: jekyllrb
-twitter_url: "#"
+twitter_url: "https://twitter.com/lancematch"
 facebook_url: "#"
 
 
