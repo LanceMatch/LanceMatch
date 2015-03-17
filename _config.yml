@@ -1,18 +1,13 @@
 # Site settings
 title: LanceMatch
-
 email: hello@lancematch.com
+url: "http://lancematch.com"
 
-#baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://lancematch.com" # the base hostname & protocol for your site
-#url: "http://localhost:4000m" # the base hostname & protocol for your site
-
+# Social links
 twitter_username: lancematch
 twitter_url: "https://twitter.com/LanceMatch"
 facebook_url: "https://facebook.com/LanceMatch"
 
-
 # Build settings
 markdown: kramdown
-
 permalink: blog/:title/
