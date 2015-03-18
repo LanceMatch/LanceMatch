@@ -8,9 +8,9 @@ s3_bucket: www.lancematch.com
 
 # site: path-to-your-website
 
-# max_age:
-#   "assets/*": 6000
-#   "*": 300
+max_age:
+  "assets/*": 864000
+  "*": 60
 
 # gzip:
 #   - .html
