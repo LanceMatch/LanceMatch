@@ -11,3 +11,8 @@ facebook_url: "https://facebook.com/LanceMatch"
 # Build settings
 markdown: kramdown
 permalink: blog/:title/
+
+assets:
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
