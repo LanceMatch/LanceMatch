@@ -17,5 +17,6 @@ assets:
     - _assets/javascripts
     - _assets/stylesheets
     - _assets/images
+    - _assets/fonts
 
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'Rakefile', 's3_website.yml']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'Rakefile', 's3_website.yml', 'gulpfile.js']

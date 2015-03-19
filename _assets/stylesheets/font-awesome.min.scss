@@ -1,0 +1,66 @@
+/*!
+ *  Font Awesome 4.3.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url(asset_path('fontawesome-webfont.eot?v=4.3.0'));
+  src: url(asset_path('fontawesome-webfont.eot?#iefix&v=4.3.0')) format('embedded-opentype'),url(asset_path('fontawesome-webfont.woff2?v=4.3.0')) format('woff2'),url(asset_path('fontawesome-webfont.woff?v=4.3.0')) format('woff'),url(asset_path('fontawesome-webfont.ttf?v=4.3.0')) format('truetype'),url(asset_path('fontawesome-webfont.svg?v=4.3.0#fontawesomeregular')) format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: translate(0, 0);
+}
+
+.fa-search:before {
+  content: "\f002";
+}
+
+.fa-envelope-o:before {
+  content: "\f003";
+}
+
+.fa-user:before {
+  content: "\f007";
+}
+
+.fa-bar-chart:before {
+  content: "\f080";
+}
+
+.fa-twitter:before {
+  content: "\f099";
+}
+
+.fa-facebook:before {
+  content: "\f09a";
+}
+
+.fa-github:before {
+  content: "\f09b";
+}
+
+.fa-bars:before {
+  content: "\f0c9";
+}
+
+.fa-money:before {
+  content: "\f0d6";
+}
+
+.fa-code:before {
+  content: "\f121";
+}
+
+.fa-tumblr:before {
+  content: "\f173";
+}
