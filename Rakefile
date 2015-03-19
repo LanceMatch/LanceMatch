@@ -3,8 +3,7 @@ task :build do
   system "jekyll build"
 end
 task :optimize_build do
-  system "grunt" #uncss (remove extra css stuff)
-
+  system "gulp"
 end
 
 desc "Deploy the app to s3"
