@@ -29,17 +29,17 @@ max_age:
 
 # s3_reduced_redundancy: true
 
-# cloudfront_distribution_id: your-dist-id
+cloudfront_distribution_id: E34FDE85734MLK
 
 # cloudfront_distribution_config:
-#   default_cache_behavior:
-#     min_TTL: <%= 60 * 60 * 24 %>
-#   aliases:
-#     quantity: 1
-#     items:
-#       CNAME: your.website.com
+default_cache_behavior:
+  min_TTL: <%= 60 * 60 * 24 %>
+aliases:
+  quantity: 1
+  items:
+    CNAME: lancematch.com
 
-# cloudfront_invalidate_root: true
+cloudfront_invalidate_root: true
 
 # concurrency_level: 5
 
