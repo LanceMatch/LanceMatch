@@ -14,7 +14,7 @@ end
 
 task :uncss do
   #optimize css
-  system "gulp" #uncss (remove extra css stuff)
+  system "gulp uncss" #uncss (remove extra css stuff)
   system "cp _uncss/* _assets/stylesheets"
 end
 

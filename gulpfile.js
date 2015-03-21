@@ -8,7 +8,7 @@ var uncss = require('gulp-uncss');
 //var concat = require('gulp-concat');
 //var csso = require('gulp-csso');
 
-gulp.task('default', function() {
+gulp.task('uncss', function() {
     return gulp.src('_assets/stylesheets/*')
         //.pipe(sass())
         //.pipe(concat('main.css'))
