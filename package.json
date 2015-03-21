@@ -1,0 +1,20 @@
+{
+  "name": "lancematch",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appupa/appupa.git"
+  },
+  "author": "Appupa",
+  "bugs": {
+    "url": "https://github.com/appupa/appupa/issues"
+  },
+  "homepage": "https://github.com/appupa/appupa",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "3.8.11",
+    "gulp-uncss": "1.0.0"
+  }
+}
