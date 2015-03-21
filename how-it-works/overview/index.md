@@ -11,10 +11,10 @@ Best candidates. No recruiters. No worries.
 
 ## Why should I submit my project on LanceMatch?
 
-Our professionals introduce a wealth of experience and skill to make your project stand out, increase conversions, and in the end, be successful. Every professional has a proven track-record of building top products that launch on time and in budget.
+Our professionals introduce an abundance of experience to make your project successful. Every professional of ours has a record of building top products that launch on terms.
 
- * Save time and money by connecting with an experienced professional, ready to work on your project, in under 48 hours.
- * Get help along the way from our team. We're here to help you choose the right budget, set the right scope, and answer any questions you might have.
+ * Save time and money by connecting with a qualified professional, ready to begin in under 48 hours.
+ * Get help along the way. We'll help craft the proper budget and scope, and answer any questions.
 
 ## How do I connect with my professional?
 
