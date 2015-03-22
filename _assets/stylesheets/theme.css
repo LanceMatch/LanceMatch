@@ -443,6 +443,10 @@ header .btn:last-child {
   background-color: #333333;
 }
 
+.team-1-member h5 {
+  margin-top:10px;
+}
+
 .page-header .background-image-holder {
   height: 150%;
   top: -20%;
