@@ -4,13 +4,13 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/appupa/appupa.git"
+    "url": "https://github.com/lancematch/lancematch.git"
   },
-  "author": "Appupa",
+  "author": "LanceMatch",
   "bugs": {
-    "url": "https://github.com/appupa/appupa/issues"
+    "url": "https://github.com/lancematch/lancematch/issues"
   },
-  "homepage": "https://github.com/appupa/appupa",
+  "homepage": "http://lancematch.com",
   "private": true,
   "dependencies": {},
   "devDependencies": {
