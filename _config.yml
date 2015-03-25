@@ -18,4 +18,4 @@ assets:
     - _assets/images
     - _assets/fonts
 
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'Rakefile', 's3_website.yml', 'gulpfile.js', 'package.json']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'Rakefile', 's3_website.yml', 'gulpfile.js', 'package.json', 'node_modules/']
