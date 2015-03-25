@@ -1,5 +1,5 @@
-s3_id: <%= ENV['AWS_key'] %>
-s3_secret: <%= ENV['AWS_secret'] %>
+s3_id: <%= ENV['AWS_KEY'] %>
+s3_secret: <%= ENV['AWS_SECRET'] %>
 s3_bucket: www.lancematch.com
 
 max_age:
@@ -13,7 +13,7 @@ gzip:
 
 s3_reduced_redundancy: true
 
-cloudfront_distribution_id: <%= ENV['AWS_cloudfront_dist_id'] %>
+cloudfront_distribution_id: <%= ENV['AWS_DIST_ID'] %>
 
 default_cache_behavior:
   min_TTL: <%= 60 * 60 * 24 %>
