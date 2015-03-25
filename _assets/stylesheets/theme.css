@@ -387,7 +387,7 @@ section:nth-of-type(even) {
   height: 100%;
   top: 0px;
   content: '';
-  opacity: 0.8;
+  opacity: 0.9;
   z-index: 2;
   background-color: #e74c3c;
   left: 0;
@@ -441,6 +441,11 @@ header .btn:last-child {
   opacity: 0.3;
   z-index: 2;
   background-color: #333333;
+}
+
+.team-1-member h5 {
+  font-size: 17px;
+  margin-top:10px;
 }
 
 .page-header .background-image-holder {
