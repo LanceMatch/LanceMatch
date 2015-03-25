@@ -61,10 +61,6 @@ input::-moz-focus-inner {
     content: " (" attr(href) ")";
   }
 
-  a[href^="#"]:after {
-    content: "";
-  }
-
   img {
     page-break-inside: avoid;
   }

@@ -11,7 +11,7 @@ excerpt: This is a little excerpt from the post
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
 
 <figure>
-  {% image hero3.jpg width="500" height="500" alt="Blog Article Figure" %}
+  <img src="{% asset_path posts/examples/hero3.jpg%}" width="500" height="500" alt="Blog Article Figure" />
   <figcaption>Here is a caption for this picture</figcaption>
 </figure>
 

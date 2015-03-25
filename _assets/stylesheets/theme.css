@@ -445,7 +445,7 @@ header .btn:last-child {
 
 .team-1-member h5 {
   font-size: 17px;
-  margin-top:10px;
+  margin-top: 10px;
 }
 
 .page-header .background-image-holder {
@@ -568,6 +568,24 @@ header.fullscreen-element .overlay:before {
   padding-bottom: 16px;
 }
 
+.client-row img {
+  opacity: 0.3;
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  transition: all .3s ease;
+  -webkit-backface-visibility: none;
+}
+
+@media (min-width: 659px) and (max-width: 768px) {
+  .client-row img {
+    max-width: 98px;
+  }
+}
+
+.client-row img:hover {
+  opacity: 1;
+}
+
 .client-row .row-wrapper {
   display: inline-block;
   width: 80%;
@@ -647,6 +665,11 @@ header.fullscreen-element .overlay:before {
 .team-1-member {
   text-align: center;
   margin-top: 48px;
+}
+
+.team-1-member img {
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .team-1-member h5 {
@@ -999,6 +1022,10 @@ footer.short-2 span:last-child {
     float: none;
     margin-bottom: 16px;
     margin-right: 0px;
+  }
+
+  .client-row img {
+    max-width: 100px;
   }
 
   footer.short-2 {

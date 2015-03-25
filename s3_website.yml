@@ -2,32 +2,19 @@ s3_id: <%= ENV['AWS_key'] %>
 s3_secret: <%= ENV['AWS_secret'] %>
 s3_bucket: www.lancematch.com
 
-# site: path-to-your-website
-
 max_age:
   "assets/*": 864000
   "*": 60
 
-# gzip:
-#   - .html
-#   - .css
-#   - .md
-# gzip_zopfli: true
+gzip:
+  - .html
+  - .css
+  - .md
 
-# See http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region for valid endpoints
-# s3_endpoint: ap-northeast-1
+s3_reduced_redundancy: true
 
-# ignore_on_server: that_folder_of_stuff_i_dont_keep_locally
+cloudfront_distribution_id: <%= ENV['AWS_cloudfront_dist_id'] %>
 
-# exclude_from_upload:
-#   - those_folders_of_stuff
-#   - i_wouldnt_want_to_upload
-
-# s3_reduced_redundancy: true
-
-cloudfront_distribution_id: E34FDE85734MLK
-
-# cloudfront_distribution_config:
 default_cache_behavior:
   min_TTL: <%= 60 * 60 * 24 %>
 aliases:
@@ -37,17 +24,4 @@ aliases:
 
 cloudfront_invalidate_root: true
 
-# concurrency_level: 5
-
-# redirects:
-#   index.php: /
-#   about.php: about.html
-#   music-files/promo.mp4: http://www.youtube.com/watch?v=dQw4w9WgXcQ
-
-# routing_rules:
-#   - condition:
-#       key_prefix_equals: blog/some_path
-#     redirect:
-#       host_name: blog.example.com
-#       replace_key_prefix_with: some_new_path/
-#       http_redirect_code: 301
+concurrency_level: 3
