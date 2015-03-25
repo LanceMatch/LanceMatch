@@ -12,6 +12,7 @@ task :optimize_images do
   image_optim.optimize_images!(Dir['_assets/images/**/*.png'] + Dir['_assets/images/**/*.jpg'])
 end
 
+desc "run uncss"
 task :uncss do
   #optimize css
   system "gulp uncss" #uncss (remove extra css stuff)
