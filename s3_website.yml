@@ -25,14 +25,3 @@ aliases:
 cloudfront_invalidate_root: true
 
 concurrency_level: 3
-
-#redirects:
-  #blog/: blog
-
-# routing_rules:
-#   - condition:
-#       key_prefix_equals: blog/some_path
-#     redirect:
-#       host_name: blog.example.com
-#       replace_key_prefix_with: some_new_path/
-#       http_redirect_code: 301
