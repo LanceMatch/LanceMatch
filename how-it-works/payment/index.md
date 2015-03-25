@@ -6,8 +6,8 @@ section: How It Works
 
 ## Payment
 
-We're a credible, collaborative marketplace committed to a wonderful experience. Nothing is more important to us than ensuring your process is smooth from start to finish.
+We're a credible, collaborative marketplace committed to a wonderful experience. Our top priority is ensuring your process is smooth from start to finish.
 
-## Why do we charge a service fee?
+## What's the cost?
 
-LanceMatch charges a 15% service fee for each project to cover recruiting efforts, the cost of running the site, and allows us to offer support along the way.
+LanceMatch charges a 10% service fee for each project to cover recruiting efforts, the cost of running the site, and allows us to offer support along the way.
