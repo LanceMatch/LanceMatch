@@ -1,6 +1,6 @@
 s3_id: <%= ENV['AWS_KEY'] %>
 s3_secret: <%= ENV['AWS_SECRET'] %>
-s3_bucket: www.lancematch.com
+s3_bucket: lancematch.com
 
 max_age:
   "assets/*": 864000
