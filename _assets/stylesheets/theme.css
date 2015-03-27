@@ -651,6 +651,8 @@ header.fullscreen-element .overlay:before {
 
 .team-1-member h5 {
   margin-bottom: 8px;
+  margin-top: 8px;
+  font-size: 17px;
 }
 
 .team-1-member .social-icons {
