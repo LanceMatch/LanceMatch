@@ -664,7 +664,6 @@ header.fullscreen-element .overlay:before {
 
 .team-1-member img {
   display: inline-block;
-  margin-bottom: 16px;
 }
 
 .team-1-member {
@@ -673,12 +672,7 @@ header.fullscreen-element .overlay:before {
 }
 
 .team-1-member h5 {
-  margin-top: 10px;
   font-size: 17px;
-}
-
-.team-1-member .social-icons {
-  margin-top: 8px;
 }
 
 .team-1-member .social-icons li a {
