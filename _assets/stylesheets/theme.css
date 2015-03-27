@@ -562,6 +562,10 @@ header.fullscreen-element .overlay:before {
   line-height: 0;
 }
 
+.client-row img:hover {
+  opacity: 1;
+}
+
 .client-row .col-sm-3 {
   display: inline-block;
   min-height: 80px;
