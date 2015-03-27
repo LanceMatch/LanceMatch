@@ -1,6 +1,7 @@
 desc "Build site"
 task :build do
   Rake::Task['optimize_images'].invoke
+  system "rm -rf _site/"
   system "jekyll build"
 end
 
