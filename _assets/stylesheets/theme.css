@@ -232,6 +232,7 @@ section:nth-of-type(even) {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #3498db;
+  width: 200px;
 }
 
 .btn-primary.btn-filled {
