@@ -223,21 +223,11 @@ section:nth-of-type(even) {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #3498db;
-  width: 200px;
 }
 
 .btn-primary.btn-filled {
   background: #3498db;
   color: #fff;
-}
-
-.btn-primary#freelancer {
-  background-color  : #E74C3C;
-  border: 2px solid #E74C3C;
-}
-
-.btn-white#work {
-  background-color: rgba(255,255,255, 0.87);
 }
 
 .btn-white {
@@ -367,11 +357,6 @@ section:nth-of-type(even) {
   top: 0;
 }
 
-.team-1-member h5 {
-  font-size: 17px;
-  margin-top: 10px;
-}
-
 .nav-sticky .logo {
   bottom: 5px;
 }
@@ -402,7 +387,7 @@ section:nth-of-type(even) {
   height: 100%;
   top: 0px;
   content: '';
-  opacity: 0.9;
+  opacity: 0.8;
   z-index: 2;
   background-color: #e74c3c;
   left: 0;
@@ -434,7 +419,7 @@ header .btn:last-child {
 .page-header {
   margin: 0px;
   padding: 0px;
-  padding: 135px 0px;
+  padding: 160px 0px;
   border-bottom: none;
 }
 
@@ -520,6 +505,10 @@ header.centered-text .btn {
   margin-top: 24px;
 }
 
+header.centered-text .btn:last-child {
+  margin-right: 0px;
+}
+
 header.fullscreen-element .overlay:before {
   position: absolute;
   width: 100%;
@@ -572,24 +561,6 @@ header.fullscreen-element .overlay:before {
   line-height: 80px;
   padding-top: 16px;
   padding-bottom: 16px;
-}
-
-.client-row img {
-  opacity: 0.3;
-  -webkit-transition: all .3s ease;
-  -moz-transition: all .3s ease;
-  transition: all .3s ease;
-  -webkit-backface-visibility: none;
-}
-
-@media (min-width: 659px) and (max-width: 768px) {
-  .client-row img {
-    max-width: 98px;
-  }
-}
-
-.client-row img:hover {
-  opacity: 1;
 }
 
 .client-row .row-wrapper {
@@ -671,11 +642,6 @@ header.fullscreen-element .overlay:before {
 .team-1-member {
   text-align: center;
   margin-top: 48px;
-}
-
-.team-1-member img {
-  display: inline-block;
-  margin-bottom: 16px;
 }
 
 .team-1-member h5 {
@@ -825,10 +791,6 @@ footer.short-2 span:last-child {
 
   nav .social-icons {
     display: none;
-  }
-
-  .open-nav {
-    max-height: 8000px;
   }
 
   .nav-menu {
@@ -985,10 +947,6 @@ footer.short-2 span:last-child {
     display: none;
   }
 
-  .open-nav {
-    max-height: 8000px;
-  }
-
   .nav-menu {
     padding-top: 24px;
   }
@@ -1036,10 +994,6 @@ footer.short-2 span:last-child {
     float: none;
     margin-bottom: 16px;
     margin-right: 0px;
-  }
-
-  .client-row img {
-    max-width: 100px;
   }
 
   footer.short-2 {
