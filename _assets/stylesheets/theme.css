@@ -18,10 +18,11 @@ body {
   line-height: 24px;
 }
 
-h1,
-h2,
-h5,
-h5 {
+.open-nav {
+  max-height: 8000px;
+}
+
+h1, h2, h5, {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   color: #333333;
