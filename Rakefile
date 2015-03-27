@@ -1,10 +1,3 @@
-desc "Build site"
-task :build do
-  Rake::Task['uncss'].invoke
-  Rake::Task['optimize_images'].invoke
-  system "jekyll build"
-end
-
 desc "Optimize"
 task :optimize_images do
   require 'image_optim'
@@ -21,6 +14,6 @@ end
 
 desc "Deploy the app to s3"
 task :deploy do
-  Rake::Task["build"].invoke
+  system "jekyll build"
   system("s3_website push")
 end

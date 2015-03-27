@@ -74,6 +74,15 @@ p {
   line-height: 24px;
 }
 
+#work {
+  background-color: rgba(255,255,255, 0.87);
+}
+
+#freelancer {
+  background-color  : #E74C3C;
+  border: 2px solid #E74C3C;
+}
+
 p.lead {
   font-size: 16px;
   line-height: 30px;
@@ -503,10 +512,6 @@ header.centered-text h1 {
 header.centered-text .btn {
   margin-right: 16px;
   margin-top: 24px;
-}
-
-header.centered-text .btn:last-child {
-  margin-right: 0px;
 }
 
 header.fullscreen-element .overlay:before {
