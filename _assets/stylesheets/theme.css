@@ -556,14 +556,26 @@ header.fullscreen-element .overlay:before {
   margin-bottom: 48px !important;
 }
 
+.client-row img {
+  opacity: 0.3;
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  transition: all .3s ease;
+  -webkit-backface-visibility: none;
+}
+@media (min-width: 659px) and (max-width: 768px) {
+  .client-row img {
+    max-width: 98px;
+  }
+}
+.client-row img:hover {
+  opacity: 1;
+}
+
 .client-row {
   overflow: hidden;
   text-align: center;
   line-height: 0;
-}
-
-.client-row img:hover {
-  opacity: 1;
 }
 
 .client-row .col-sm-3 {
@@ -650,14 +662,18 @@ header.fullscreen-element .overlay:before {
   margin-bottom: 40px;
 }
 
+.team-1-member img {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
 .team-1-member {
   text-align: center;
   margin-top: 48px;
 }
 
 .team-1-member h5 {
-  margin-bottom: 8px;
-  margin-top: 8px;
+  margin-top: 10px;
   font-size: 17px;
 }
 
