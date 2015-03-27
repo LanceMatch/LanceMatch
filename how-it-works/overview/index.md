@@ -5,9 +5,7 @@ title: Overview
 ---
 ## Overview
 
-You have a project that needs a top notch creative work. We have a network of vetted professionals who are ready to get their hands dirty. We match you up and  ensure the process operates smoothly on both ends.
-
-Best candidates. No recruiters. No worries.
+You have a project that needs a top notch creative work. We have a network of vetted professionals who are ready to get their hands dirty. We match you up and ensure the process operates smoothly.
 
 ## Why LanceMatch?
 
