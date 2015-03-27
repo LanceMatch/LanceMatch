@@ -15,6 +15,5 @@ end
 desc "Deploy the app to s3"
 task :deploy do
   Rake::Task["build"].invoke
-  system("cd _site/")
   system("s3_website push")
 end
