@@ -35,24 +35,24 @@ layout: default
             <h5>{{ author.name }}</h5>
             <p> {{ author.bio }} </p>
             <ul class="social-icons">
-              {% if author.twitter_url %}
+              {% if author.twitter %}
               <li>
-              <a href="{{author.twitter_url}}">
+              <a href="{{author.twitter}}">
                 <i class="fa fa-twitter"></i>
               </a>
               </li>
               {% endif %}
-              {% if author.facebook_url %}
+              {% if author.github %}
               <li>
-              <a href="{{author.facebook_url}}">
-                <i class="fa fa-facebook"></i>
+              <a href="{{author.github}}">
+                <i class="fa fa-github"></i>
               </a>
               </li>
               {% endif %}
-              {% if author.tumblr_url %}
+              {% if author.linkedin %}
               <li>
-              <a href="{{author.tumblr_url}}">
-                <i class="fa fa-tumblr"></i>
+              <a href="{{author.linkedin}}">
+                <i class="fa fa-linkedin"></i>
               </a>
               </li>
               {% endif %}
