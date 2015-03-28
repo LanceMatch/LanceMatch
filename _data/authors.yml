@@ -3,7 +3,7 @@ tejas:
   email: me@tejas.io
   web: http://lancematch.com
   bio: Tejas is a guy.
-  image: https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/10985616_415857358570434_5201858175450582128_n.jpg?oh=1368fbdc4e7f6fdba539aaff1e8655f4&oe=55843C27&__gda__=1434509063_32716b8bdf323749c095d69131afcd6e
+  image: authors/tejas.png
   twiter: https://twitter.com/tejasmanohar
   github: https://github.com/tejasmanohar
 
@@ -11,4 +11,4 @@ vip:
   name: Viputheshwar Sitaraman
   email: vip.sitaraman@gmail.com
   bio: Maker of Fine Things
-  image: ../_assets/images/authors/vip.png
+  image: authors/vip.png
