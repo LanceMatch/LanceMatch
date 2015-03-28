@@ -21,7 +21,7 @@ It’s almost impossible to express your own skills when you work within the sco
 Side projects make it possible to keep your creative flame alive. With your own work, you’re essentially limitless in terms of what you do. Personal endeavors both (a) allow you to show your style and (b) build a portfolio that better represents you.
 
 >"Pick a small idea and start working on it." <br />
-- Brent Galloway
+\- Brent Galloway
 
 ## Do what you love.
 
@@ -29,8 +29,8 @@ The constant pressure of freelancing is both what we live for and what can end c
 
 Setting time aside every week to simply work for oneself keeps your passion for freelancing alive. Avoid burning out by staying true to what you love to do.
 
->"Side projects are absolutely necessary for creatives that don’t want to stagnate."<br />
-- Paul Jarvis
+>"Side projects are absolutely necessary for creatives that don’t want to stagnate." <br />
+\- Paul Jarvis
 
 ## Showcase yourself.
 
