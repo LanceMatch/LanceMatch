@@ -7,7 +7,7 @@ author: vip
 In the day and age of 9 to 5 day-jobs, freelancing sounds like a dream come true. Flexible hours, self-determined workloads, and a dynamic job experience seem enticing—at first.
 
 
-But freelancing is **hard work**. Demand is never guaranteed and job searching is unending. Clients seldom have the time or money to offer creative scope. Late nights coding/designing for quick turnarounds can be hellish.
+But freelancing is **hard work**. Demand is never guaranteed and job searching is unending. Clients seldom have the time or money to offer creative scope. Late nights coding/designing for quick turnarounds can be atrocious.
 
 As a freelance designer/developer, both sides of freelancing have become the roller coaster of my life. Freelancing is like sitting on a wood raft in the middle of an ocean storm just for the thrill of it.
 What I’ve learned, however, is that the key to staying afloat is to **stay creative**. Working on your side projects can keep your mind fresh, your ideas creative, and your work ethic strong. The advantages of side projects, both for your personal health and portfolio, are limitless:
@@ -20,7 +20,7 @@ It’s almost impossible to express your own skills when you work within the sco
 
 Side projects make it possible to keep your creative flame alive. With your own work, you’re essentially limitless in terms of what you do. Personal endeavors both (a) allow you to show your style and (b) build a portfolio that better represents you.
 
->Pick a small idea and start working on it.
+>"Pick a small idea and start working on it." <br />
 - Brent Galloway
 
 ## Do what you love.
@@ -29,7 +29,7 @@ The constant pressure of freelancing is both what we live for and what can end c
 
 Setting time aside every week to simply work for oneself keeps your passion for freelancing alive. Avoid burning out by staying true to what you love to do.
 
->Side projects are absolutely necessary for creatives that don’t want to stagnate.
+>"Side projects are absolutely necessary for creatives that don’t want to stagnate."<br />
 - Paul Jarvis
 
 ## Showcase yourself.
