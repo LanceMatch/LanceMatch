@@ -1047,6 +1047,10 @@ footer.short-2 span:last-child {
   padding-bottom: 0px;
 }
 
+.bg-primary.short-2 {
+  text-align: center;
+}
+
 .sidebar-widget {
   margin-bottom: 40px;
 }
@@ -1062,3 +1066,44 @@ footer.short-2 span:last-child {
     padding-top: 80px !important;
   }
 }
+
+.sidebar-widget a {
+  color: #888;
+}
+
+.sidebar-widget a.active {
+  color: #222;
+}
+
+.sidebar-widget a:hover {
+  color: #222;
+}
+
+.sidebar-widget a {
+  background-color: #ccc;
+}
+
+.center {
+  text-align: center;
+}
+
+.autocenter {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+footer.bg-primary {
+  background-color: #333 !important;
+}
+
+@media screen and (max-width: 767px) {
+  .blog-sidebar {
+    display: block !important;
+    text-align: center;
+  }
+}
+
