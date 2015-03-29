@@ -268,13 +268,6 @@ $(document).ready(function(){
 	$('.countdown').each(function(){
 		$(this).countdown({until: new Date($(this).attr('data-date'))});
 	});
-	
-	// Twitter Feed
-	
-	if($('#tweets').length){
-		twitterFetcher.fetch($('#tweets').attr('data-widget-id'), '', 5, true, true, true, '', false, handleTweets);
-      
-    }
     
     // Contact form code
 
@@ -429,10 +422,6 @@ $(window).load(function(){
 		});
 		
 	}
-	
-    if($('#tweets').length){
-    	$('#tweets').flexslider({ directionNav: false, controlNav: false });
-    }
     
     // Remove Loader
     
@@ -501,19 +490,6 @@ $(window).load(function(){
 
 
 });
-
-function handleTweets(tweets){
-          var x = tweets.length;
-          var n = 0;
-          var element = document.getElementById('tweets');
-          var html = '<ul class="slides">';
-          while(n < x) {
-            html += '<li>' + tweets[n] + '</li>';
-            n++;
-          }
-          html += '</ul>';
-          element.innerHTML = html;
-    }
 
 function alignVertical(){
 
