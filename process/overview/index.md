@@ -1,6 +1,6 @@
 ---
-layout: how_it_works
-section: How It Works
+layout: process
+section: Our Process
 title: Overview
 ---
 ## Overview

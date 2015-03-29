@@ -1,7 +1,7 @@
 ---
-layout: how_it_works
-title: Payment
-section: How It Works
+layout: process
+title: Our Process
+section: Payment
 ---
 
 ## Payment
