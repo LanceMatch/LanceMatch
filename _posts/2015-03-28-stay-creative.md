@@ -40,4 +40,4 @@ Being able to make completely independent decisions and have a virtually infinit
 
 ***
 
-Side projects can redefine your career and rekindle your passion for freelancing. Build your portfolio and display your creativity and skills with personal endeavors—and have a little fun while your at it!
+Side projects can redefine your career and rekindle your passion for freelancing. Build your portfolio and display your creativity and skills with personal endeavors—and have a little fun while you're at it!
